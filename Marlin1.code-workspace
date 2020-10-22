@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "LoraBase_Teste",
+			"path": "..\\..\\..\\..\\APB-Foguetes\\Codigos_BD_Lancamento\\Teste1\\LoraBase_Teste"
+		},
+		{
+			"name": "LoraBase_TesteRX",
+			"path": "..\\..\\..\\..\\APB-Foguetes\\Codigos_BD_Lancamento\\LoraBase_TesteRX"
 		}
 	]
 }
